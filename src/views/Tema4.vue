@@ -56,7 +56,7 @@
                 img(src="@/assets/curso/tema4/4.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Líneas
-              p Este gráfico es el más adecuado para mostrar cómo cambia una variable a lo largo del tiempo, como por ejemplo, las ventas mensuales o la temperatura diaria.
+              p Este gráfico es el más adecuado para mostrar cómo cambia una variable a lo largo del tiempo, como, por ejemplo, las ventas mensuales o la temperatura diaria.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure
@@ -97,7 +97,7 @@
     
     h3.text-white.bg-color-4.d-md-inline.p-3.tarjeta Gráficos de distribución y relación
 
-    p.mb-5.mt-5 Estos gráficos permiten analizar la dispersión de los datos o la relación entre dos variables, proporcionando información útil para identificar patrones, correlaciones o estructuras de frecuencia.es.
+    p.mb-5.mt-5 Estos gráficos permiten analizar la dispersión de los datos o la relación entre dos variables, proporcionando información útil para identificar patrones, correlaciones o estructuras de frecuencia es.
 
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
@@ -128,11 +128,11 @@
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.2 Personalización 
     
-    p.mb-5 Un gráfico predeterminado rara vez comunica la información de forma óptima. Por ello, la personalización es fundamental para lograr una representación clara, precisa y visualmente efectiva. Al seleccionar un gráfico en Excel, se activan dos pestañas contextuales: “Diseño de gráfico” y “Formato”, desde donde se accede a todas las opciones de edición.
+    p.mb-5 Un gráfico predeterminado rara vez comunica la información de forma óptima. Por ello, la personalización es fundamental para lograr una representación clara, precisa y visualmente efectiva. Al seleccionar un gráfico en Excel, se activan dos pestañas contextuales: “diseño de gráfico” y “formato”, desde donde se accede a todas las opciones de edición.
 
     h3.text-white.bg-color-4.d-inline.p-3.tarjeta Elementos del gráfico
 
-    p.mb-5.mt-5 El botón “+” que aparece junto al gráfico permite añadir o quitar elementos clave para mejorar su comprensión y presentación. A continuación, se expone los principales elementos que se pueden añadir o quitar en un gráfico de Excel.
+    p.mb-5.mt-5 El botón “+” que aparece junto al gráfico permite añadir o quitar elementos clave para mejorar su comprensión y presentación. A continuación, se exponen los principales elementos que se pueden añadir o quitar en un gráfico de Excel.
 
     .row.justify-content-center.mb-5
       .col-lg-8.mb-3.mb-lg-0.order-lg-2
@@ -164,7 +164,7 @@
           div(titulo="Tabla de datos")
             p.ms-5 Es posible mostrar la tabla de datos subyacente justo debajo del gráfico, lo cual aporta contexto adicional sin necesidad de cambiar de vista.
           div(titulo="Líneas de cuadrícula")
-            p.ms-5 Las líneas de cuadrícula facilitan la lectura de los valores en los ejes; se pueden activar o desactivar líneas primarias y secundarias..
+            p.ms-5 Las líneas de cuadrícula facilitan la lectura de los valores en los ejes; se pueden activar o desactivar líneas primarias y secundarias.
           div(titulo="Línea de tendencia")
             p.ms-5 Esta línea permite visualizar la tendencia general de los datos, pudiendo adoptar distintos modelos (lineal, exponencial, logarítmico, etc.).
     
@@ -247,7 +247,7 @@
                 img(src="@/assets/curso/tema4/18.png")
             .col-lg-7.order-1.mb-3.mb-lg-0
               h5 Segmentaciones de datos (<em>Slicers</em>)
-              p Las segmentaciones permiten filtrar los datos con un solo clic. Un <em>Slicer</em> puede vincularse a varias Tablas Dinámicas y Gráficos Dinámicos, sincronizando su comportamiento.
+              p Las segmentaciones permiten filtrar los datos con un solo clic. Un <em>Slicer</em> puede vincularse a varias tablas dinámicas y gráficos dinámicos, sincronizando su comportamiento.
           .row.align-items-center.p-4.p-md-5
             .col-lg-5.order-2
               figure

@@ -148,7 +148,7 @@
                 td 75
                 td $0.30
 
-    p.mb-5 Este tipo de estructura permite calcular el total de ventas, filtrar por fechas específicas o generar gráficos comparativos. Además, facilita la aplicación de modelos de análisis como segmentación, agrupación o cálculos derivados. También es compatible con herramientas como Power Query, Power BI y tablas dinámicas, y favorece la automatización mediante fórmulas o macros.
+    p.mb-5 Este tipo de estructura permite calcular el total de ventas, filtrar por fechas específicas o generar gráficos comparativos. Además, facilita la aplicación de modelos de análisis como segmentación, agrupación o cálculos derivados. También es compatible con herramientas como <i>Power Query</i>, <i>Power BI</i> y tablas dinámicas, y favorece la automatización mediante fórmulas o macros.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -184,7 +184,7 @@
 
     h3.text-white.bg-color-4.d-inline.p-3.tarjeta Tabla de Excel
 
-    p.mb-5.mt-5 Una Tabla de Excel es un objeto estructurado que el programa reconoce como una entidad única. A continuación, se detallan sus principales características:
+    p.mb-5.mt-5 Una tabla de Excel es un objeto estructurado que el programa reconoce como una entidad única. A continuación, se detallan sus principales características:
         
     .row.justify-content-center
       .col-lg-10
@@ -268,7 +268,7 @@
                 p.mb-0 <b>Utilizar el menú</b>: acceder a la pestaña Insertar y hacer clic en Tabla.
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-right.bg-color-10
-                p.mb-0 <b>Confirmar</b>: en el cuadro de diálogo Crear tabla, verificar que el rango sea correcto y marcar la casilla "La tabla tiene encabezados" si la primera fila contiene títulos de columnas.
+                p.mb-0 <b>Confirmar</b>: en el cuadro de diálogo crear tabla, verificar que el rango sea correcto y marcar la casilla "la tabla tiene encabezados" si la primera fila contiene títulos de columnas.
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-right.bg-color-10
                 p.mb-0 <b>Aceptar</b>: al hacer clic en aceptar, se generará la tabla con formato automático, encabezados visibles y funcionalidades de filtrado activadas.
@@ -301,11 +301,11 @@
                 p.mb-0 <b>Aplicar el comando de creación</b>: utilizar el atajo Ctrl + T o acceder a Insertar > Tabla desde la cinta de opciones.
               li.mb-2.d-flex
                 i.fa-solid.fa-circle-right.bg-color-10
-                p.mb-0 <b>Encabezados automáticos</b>: si no se activa la opción “La tabla tiene encabezados”, Excel asignará nombres por defecto como Columna1, Columna2, etc., los cuales podrán modificarse posteriormente.
+                p.mb-0 <b>Encabezados automáticos</b>: si no se activa la opción “la tabla tiene encabezados”, Excel asignará nombres por defecto como columna1, columna2, etc., los cuales podrán modificarse posteriormente.
     
     h3.text-white.bg-color-4.d-md-inline.p-3.tarjeta Creación de una tabla importando datos
 
-    p.mb-5.mt-5 Otra forma de generar una tabla en Excel consiste en importar datos desde fuentes externas. En el siguiente video se explica cómo crear una tabla a partir de un archivo en formato .csv:
+    p.mb-5.mt-5 Otra forma de generar una tabla en Excel consiste en importar datos desde fuentes externas. En el siguiente video se explica cómo crear una tabla a partir de un archivo en formato csv:
 
     figure.mb-5
       .video
@@ -360,11 +360,11 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 1.3 Configuración 
     
-    p.mb-5 Una vez creada la tabla, al seleccionar cualquier celda dentro de ella, aparece una nueva pestaña en la cinta de opciones llamada "Diseño de tabla" (en versiones en español de Excel también puede aparecer como "Herramientas de tabla > Diseño"). Desde esta pestaña es posible personalizar la tabla tanto en su estructura como en su apariencia. A continuación, se describen las principales opciones disponibles:
+    p.mb-5 Una vez creada la tabla, al seleccionar cualquier celda dentro de ella, aparece una nueva pestaña en la cinta de opciones llamada "diseño de tabla" (en versiones en español de Excel también puede aparecer como "herramientas de tabla > diseño"). Desde esta pestaña es posible personalizar la tabla tanto en su estructura como en su apariencia. A continuación, se describen las principales opciones disponibles:
 
     h3.text-white.bg-color-4.d-inline.p-3.tarjeta Nombre de la tabla
 
-    p.mb-5.mt-5 En el extremo izquierdo de la pestaña Diseño de tabla, se encuentra un campo denominado "Nombre de la tabla". Es una buena práctica asignar un nombre descriptivo y significativo a cada tabla (por ejemplo: Ventas2025, InventarioProductos). Esto facilita la identificación y uso posterior en fórmulas, gráficos o conexiones con otros datos. A continuación, se presenta la ubicación del campo “Nombre de la tabla” en la pestaña Diseño de tabla.
+    p.mb-5.mt-5 En el extremo izquierdo de la pestaña diseño de tabla, se encuentra un campo denominado "nombre de la tabla". Es una buena práctica asignar un nombre descriptivo y significativo a cada tabla (por ejemplo: ventas 2025, inventario, productos). Esto facilita la identificación y uso posterior en fórmulas, gráficos o conexiones con otros datos. A continuación, se presenta la ubicación del campo “nombre de la tabla” en la pestaña diseño de tabla.
     
     .row.justify-content-center.mb-5
       .col-lg-8.mb-3.mb-lg-0.order-lg-2
@@ -376,7 +376,7 @@
     
     h3.text-white.bg-color-4.d-inline.p-3.tarjeta Estilos de tabla
 
-    p.mb-5.mt-5 En el grupo "Estilos de tabla", se puede acceder a una galería de diseños predefinidos. Estos estilos permiten aplicar de forma rápida un formato profesional, mejorando la presentación visual y la legibilidad de la tabla. La siguiente figura presenta la galería de estilos de tabla disponibles en Excel.
+    p.mb-5.mt-5 En el grupo "estilos de tabla", se puede acceder a una galería de diseños predefinidos. Estos estilos permiten aplicar de forma rápida un formato profesional, mejorando la presentación visual y la legibilidad de la tabla. La siguiente figura presenta la galería de estilos de tabla disponibles en Excel.
     
     .bg-full-width.bg-color-11.mb-5
       .p-4.p-md-5
@@ -390,7 +390,7 @@
 
     h3.text-white.bg-color-4.d-inline.p-3.tarjeta Opciones de estilo de tabla
 
-    p.mb-5.mt-5 El grupo "Opciones de estilo de tabla" contiene varias casillas de verificación que permiten modificar el aspecto visual y funcional de la tabla. A continuación,  se detallan las opciones de estilo de tabla que permiten modificar su apariencia y funcionalidad.
+    p.mb-5.mt-5 El grupo "opciones de estilo de tabla" contiene varias casillas de verificación que permiten modificar el aspecto visual y funcional de la tabla. A continuación,  se detallan las opciones de estilo de tabla que permiten modificar su apariencia y funcionalidad.
     
     .row.justify-content-center.mb-5
       .col-lg-8.mb-3.mb-lg-0.order-lg-2

@@ -212,7 +212,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Campos calculado',
+      termino: 'Campo calculado',
       significado:
         'fórmula personalizada creada dentro de una tabla dinámica para generar nuevas métricas a partir de los campos existentes, sin alterar los datos de origen.',
     },
@@ -232,7 +232,7 @@ export default {
         'motor de preparación de datos para conectar, limpiar y transformar información de múltiples fuentes antes de su análisis, automatizando el proceso de importación.',
     },
     {
-      termino: 'Segmentación de Datos (<em>Slicers</em>)',
+      termino: 'Segmentación de datos (<em>Slicers</em>)',
       significado:
         'componente de filtrado visual que utiliza botones interactivos para filtrar tablas y gráficos, facilitando la exploración de datos en informes y <em>dashboards</em>.',
     },
@@ -244,7 +244,7 @@ export default {
     {
       termino: 'Validación de datos',
       significado:
-        'herramienta que restringe el tipo de datos o los valores que los usuarios pueden introducir en una celda se garantiza así la exactitud y coherencia de la información, previniendo errores mediante la creación de reglas como listas desplegables, rangos numéricos o longitudes de texto específicas.',
+        'herramienta que restringe el tipo de datos o los valores que los usuarios pueden introducir en una celda, se garantiza así la exactitud y coherencia de la información, previniendo errores mediante la creación de reglas como listas desplegables, rangos numéricos o longitudes de texto específicas.',
     },
   ],
   referencias: [
