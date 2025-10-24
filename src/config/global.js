@@ -173,7 +173,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/Excel_Avanzado_GEI_CF01_DU.pdf',
+        download: 'downloads/21710121_CF01_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -289,7 +289,7 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Olga Constanza Bermudez Jaimes',
+          nombre: 'Olga Constanza Bermúdez Jaimes',
           cargo: 'Responsable de Línea de Producción Huila',
           centro: 'Dirección General',
         },
@@ -299,9 +299,9 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Deivis Eduard Ramirez Martinez',
+          nombre: 'Deivis Eduard Ramírez Martínez',
           cargo: 'Experto temático',
-          centro: 'Centro de Comercio y Servicios – Regional Tolima',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Paola Alexandra Moya',
@@ -315,7 +315,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Diana Milena Picon Rincon',
+          nombre: 'Diana Milena Picon Rincón',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
@@ -340,7 +340,7 @@ export default {
         },
         {
           nombre: 'Daniela Muñoz Bedoya',
-          cargo: 'Animador y productor multimedia',
+          cargo: 'Animador y productor audiovisual',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

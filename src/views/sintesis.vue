@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Síntesis sobre sobre datos con tablas dinámicas y gráficos avanzados que incluye conceptos relacionados con tipos y creación de tablas, gestión de datos mediante agrupación, cálculos, filtros y segmentación, manipulación de datos como concatenación, edición de texto, filtrado, ordenación y eliminación, así como el uso de gráficos avanzados con opciones de personalización e interactividad. ")
+          img(src="@/assets/curso/sintesis.svg", alt="Síntesis sobre datos con tablas dinámicas y gráficos avanzados que incluye conceptos relacionados con tipos y creación de tablas, gestión de datos mediante agrupación, cálculos, filtros y segmentación, manipulación de datos como concatenación, edición de texto, filtrado, ordenación y eliminación, así como el uso de gráficos avanzados con opciones de personalización e interactividad. ")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

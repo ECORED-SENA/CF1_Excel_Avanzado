@@ -85,7 +85,7 @@
           div(titulo="Agrupación dinámica")
             p.ms-5 Permite a los usuarios definir criterios de agrupación en tiempo real. Aumenta la flexibilidad y potencia la exploración analítica.
           div(titulo="Agrupación múltiple")
-            p.ms-5 Combina varios criterios de agrupación simultáneamente para realizar análisis multidimensional. Ayuda a revelar interacciones complejas entre variables. Herramientas avanzadas que permiten resumir, analizar y presentar grandes conjuntos de datos mediante la reorganización dinámica de filas, columnas y valores. Facilitan el análisis multidimensional y la generación rápida de <em>insights</em>.
+            p.ms-5 Combina varios criterios de agrupación simultáneamente para realizar análisis multidimensional. Ayuda a revelar interacciones complejas entre variables.
     
     separador
     
@@ -139,7 +139,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Jm0oDhzIjSo?si=n4K05ih9s34JEV2T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/vzr2USRB2J8?si=1i8z1PHx9O-N6cWi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     separador
     

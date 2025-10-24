@@ -364,7 +364,7 @@
 
     h3.text-white.bg-color-4.d-inline.p-3.tarjeta Nombre de la tabla
 
-    p.mb-5.mt-5 En el extremo izquierdo de la pestaña diseño de tabla, se encuentra un campo denominado "nombre de la tabla". Es una buena práctica asignar un nombre descriptivo y significativo a cada tabla (por ejemplo: ventas 2025, inventario, productos). Esto facilita la identificación y uso posterior en fórmulas, gráficos o conexiones con otros datos. A continuación, se presenta la ubicación del campo “nombre de la tabla” en la pestaña diseño de tabla.
+    p.mb-5.mt-5 En el extremo izquierdo de la pestaña diseño de tabla, se encuentra un campo denominado "nombre de la tabla". Es una buena práctica asignar un nombre descriptivo y significativo a cada tabla (por ejemplo:  Ventas2025, InventarioProductos). Esto facilita la identificación y uso posterior en fórmulas, gráficos o conexiones con otros datos. A continuación, se presenta la ubicación del campo “nombre de la tabla” en la pestaña diseño de tabla.
     
     .row.justify-content-center.mb-5
       .col-lg-8.mb-3.mb-lg-0.order-lg-2

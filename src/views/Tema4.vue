@@ -97,7 +97,7 @@
     
     h3.text-white.bg-color-4.d-md-inline.p-3.tarjeta Gráficos de distribución y relación
 
-    p.mb-5.mt-5 Estos gráficos permiten analizar la dispersión de los datos o la relación entre dos variables, proporcionando información útil para identificar patrones, correlaciones o estructuras de frecuencia es.
+    p.mb-5.mt-5 Estos gráficos permiten analizar la dispersión de los datos o la relación entre dos variables, proporcionando información útil para identificar patrones, correlaciones o estructuras de frecuencia.
 
     .bg-full-width.bg-fondo-slider.mb-5
       .p-4.p-md-5
@@ -121,7 +121,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/BeCXzqGPMoY?si=c8Oh92BmYT-cW23k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/3RDhMmUXGgk?si=zAQfeJwCAO42a6Sc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     separador
     
@@ -155,7 +155,7 @@
           div(titulo="Etiquetas de datos")
             p.ms-5 Estas etiquetas muestran el valor exacto de cada punto dentro del gráfico, facilitando una lectura precisa sin necesidad de estimación visual.
     
-    .row
+    .row.mb-4
       .col-lg-4.mb-3.mb-lg-0.order-lg-2
         figure
           img(src="@/assets/curso/tema4/13.png", data-aos="zoom-in")
@@ -224,7 +224,7 @@
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 4.3 Interactividad
     
-    p.mb-5 La verdadera potencia de Excel se manifiesta cuando los gráficos y visualizaciones adquieren un componente interactivo, permitiendo a los usuarios manipular los datos y explorar la información desde distintos ángulos sin perder claridad. La interactividad no solo hace que los datos sean más llamativos, sino que también potencia el análisis exploratorio, especialmente en contextos como presentaciones ejecutivas, reportes automatizados y dashboards de análisis dinámico.
+    p.mb-5 La verdadera potencia de Excel se manifiesta cuando los gráficos y visualizaciones adquieren un componente interactivo, permitiendo a los usuarios manipular los datos y explorar la información desde distintos ángulos sin perder claridad. La interactividad no solo hace que los datos sean más llamativos, sino que también potencia el análisis exploratorio, especialmente en contextos como presentaciones ejecutivas, reportes automatizados y #[i dashboards] de análisis dinámico.
 
     h3.text-white.bg-color-4.d-inline.p-3.tarjeta Gráficos dinámicos
 
@@ -232,7 +232,7 @@
   
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/g6yRGwnCgLk?si=CcZ-mSUnJP_y745w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/NCDHXJRBT5I?si=cQJyIaObkQZq1B4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     h3.text-white.bg-color-4.d-inline.p-3.tarjeta <em>Dashboards</em> interactivos
 
