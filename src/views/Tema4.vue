@@ -232,7 +232,7 @@
   
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/NCDHXJRBT5I?si=cQJyIaObkQZq1B4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/d56vAi3MOFA?si=lcboh7ShsHGlbTl0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen) 
 
     h3.text-white.bg-color-4.d-inline.p-3.tarjeta <em>Dashboards</em> interactivos
 
